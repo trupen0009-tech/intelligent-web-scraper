@@ -20,7 +20,7 @@ While this specific script targets tech news, the underlying logic is a **univer
 ## 🔗 Live Interactive Demo
 You can run this code yourself, right now, without installing anything. Click the button below to open the "Pressure-Tested" version of this script in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/drive/1rjFb42zIMV3a8NuW8srSBlO4vn6gKRJj?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rjFb42zIMV3a8NuW8srSBlO4vn6gKRJj?usp=sharing)
 
 ## 💼 Why This Matters for Your Business
 I don't just write code; I build systems. If you need to monitor competitors, track prices, or generate leads from complex websites, I can scale this framework to meet your specific needs.
